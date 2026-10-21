@@ -1,16 +1,23 @@
-## Hi there 👋
+<h2>
+    Hey, I'm Florian ! 👋🏻
+</h2>
 
-<!--
-**Florian-LJ/florian-lj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;&nbsp;&nbsp;I'm a student at <a href="https://www.iutvannes.fr/" target="_blank">IUT de Vannes</a>&nbsp;
 
-Here are some ideas to get you started:
+&nbsp;&nbsp;&nbsp;I’m currently learning CyberSecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;&nbsp;&nbsp;<a href="https://florian-lj.github.io/portfolio-react/" target="_blank">Here's my portfolio</a>&nbsp;
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,php,git,mysql,java,python,vue,docker,ansible,ts,k8s)](https://skillicons.dev)
+
+<h3 align="center">
+    ⬇⬇ Check my pinned projects below ⬇⬇
+</h3>
+<p align="center">
+    <i>Please consider most of them are not perfect !<i>
+</p>
+
+<p align="center">
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=0x-Saegor&show_icons=true&theme=dark&include_all_commits=true&locale=fr"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-Saegor&layout=compact&theme=dark&exclude_repo=CarcassonneWordpress"/>
+</p>
